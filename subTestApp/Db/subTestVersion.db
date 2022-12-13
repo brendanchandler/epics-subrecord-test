@@ -1,0 +1,6 @@
+record(lsi, "$(user):subTest:version") {
+    field(DTYP, "subTest version")
+    field(DESC, "Version string")
+    field(SIZV, "$(SIZV=200)")
+    field(PINI, "YES")
+}
